@@ -1,0 +1,584 @@
+text,area,seniority,experience_years
+Estudiante de Ingeniería en Sistemas con proyectos backend desarrollados en Node.js y Express. Experiencia básica con APIs REST y bases de datos PostgreSQL.,Backend,Junior,1
+"Junior backend developer learning Node.js, Express and MongoDB. Built small REST APIs for academic projects.",Backend,Junior,1
+"Recién graduado de Informática. Proyectos universitarios con Python, Flask y SQLite. Ganas de aprender y crecer en backend.",Backend,Junior,0
+"Trainee backend con conocimientos en Java, Spring Boot básico y MySQL. Trabajo en equipo, metodologías ágiles.",Backend,Junior,1
+"Computer science student with projects in Python, Django and PostgreSQL. Experience with JWT authentication and REST API design.",Backend,Junior,1
+Egresado de Sistemas. Desarrollo de una API REST con Node.js y Express para gestión de usuarios. Base de datos MySQL.,Backend,Junior,1
+"Pasante en empresa de software. Tareas de mantenimiento backend en PHP Laravel. Consultas SQL, migraciones y debugging.",Backend,Junior,1
+Junior Python developer with experience in FastAPI and SQLAlchemy. Built REST endpoints for a small e-commerce project.,Backend,Junior,1
+"Desarrollador junior Node.js. Integración de APIs externas, manejo de autenticación JWT, despliegue básico en Linux.",Backend,Junior,2
+"Backend trainee working with Ruby on Rails. Created CRUD endpoints, wrote unit tests and managed PostgreSQL migrations.",Backend,Junior,1
+"Estudiante avanzado de TI con proyecto final en Django REST Framework. Autenticación con JWT, documentación con Swagger.",Backend,Junior,1
+"Primer empleo en startup. Mantenimiento de microservicio en Node.js, resolución de bugs, revisión de PRs, integración con Redis.",Backend,Junior,1
+"Junior backend engineer. Experience with Express.js, REST APIs, Postgres, Git. Eager to grow in scalable systems architecture.",Backend,Junior,2
+"Practicante en empresa de desarrollo web. Trabajo con PHP, Laravel y MySQL. Integración con APIs de pagos.",Backend,Junior,1
+Self-taught backend developer. Created REST APIs using Node.js and MongoDB. Deployed on Linux VPS with Nginx.,Backend,Junior,1
+"Backend developer with 4 years of experience building REST APIs using Node.js, Express and PostgreSQL. Worked with JWT and OAuth authentication systems.",Backend,Mid,4
+"Desarrollador backend con experiencia en Python, FastAPI y PostgreSQL. Diseño de microservicios, integración con Redis y despliegue con Docker.",Backend,Mid,5
+"PHP Laravel developer with 3 years building web applications. REST APIs, MySQL, Redis caching, and unit testing with PHPUnit.",Backend,Mid,3
+"Backend engineer using Java Spring Boot. Desarrollé servicios REST, integraciones con Kafka y despliegue en contenedores Docker.",Backend,Mid,4
+"Node.js backend developer. 4 years building scalable APIs, working with MongoDB, Redis and AWS Lambda serverless functions.",Backend,Mid,4
+"Desarrollador Python mid-level. Trabajo con Django REST Framework, Celery para tareas asíncronas y PostgreSQL. Experiencia en startups.",Backend,Mid,4
+"Backend developer. 3 years with Go (Golang), building high-performance REST services. PostgreSQL, Docker, GitHub Actions CI/CD.",Backend,Mid,3
+"Ingeniero backend con foco en APIs REST usando Node.js y Express. Trabajo con bases de datos relacionales y no relacionales, autenticación OAuth2.",Backend,Mid,5
+"Mid backend engineer. Spring Boot microservices, Kafka messaging, Docker, PostgreSQL. Agile teams, code reviews, CI/CD pipelines.",Backend,Mid,4
+"Python backend developer with Django and FastAPI. Built payment integration APIs, async task queues with Celery, monitoring with Datadog.",Backend,Mid,5
+"Desarrollador backend Node.js. Diseño e implementación de APIs RESTful, integración con sistemas de pagos, optimización de queries PostgreSQL.",Backend,Mid,4
+"Ruby on Rails developer. 4 years building SaaS backends. PostgreSQL, Redis, Sidekiq, API design, testing with RSpec.",Backend,Mid,4
+"Desarrollador mid-level PHP. Laravel, MySQL, Redis, APIs REST. Trabaje en proyectos de e-commerce con altas cargas de usuarios.",Backend,Mid,5
+"Backend engineer focused on Node.js and TypeScript. 3 years building modular REST APIs, integrating third-party services and writing integration tests.",Backend,Mid,3
+"Desarrollador Java backend con 5 años de experiencia. Spring Boot, microservicios, Oracle DB, Apache Kafka, Docker Compose.",Backend,Mid,5
+"Senior backend engineer with 9 years of experience designing distributed systems using Java Spring Boot, Kafka, PostgreSQL and Kubernetes.",Backend,Senior,9
+"Arquitecto backend senior. Diseño de microservicios con Node.js, event-driven architecture con Kafka, liderazgo técnico de equipos de 5+ developers.",Backend,Senior,10
+"Senior Python engineer. Built and maintained high-traffic Django APIs serving 10M+ requests/day. PostgreSQL optimization, Redis, Elasticsearch.",Backend,Senior,8
+"Lead backend developer con 10 años de experiencia. Node.js, Go, PostgreSQL, Kafka. Mentor de equipos junior y mid. Arquitectura de sistemas escalables.",Backend,Senior,10
+"Senior Java architect. Designed microservices with Spring Boot, Spring Cloud, Kubernetes and AWS EKS. Team of 12 engineers.",Backend,Senior,12
+"Backend tech lead. 8 años construyendo plataformas SaaS con Node.js, Python, arquitecturas hexagonales y DDD. Liderazgo técnico y revisiones de código.",Backend,Senior,8
+"Senior backend engineer specializing in Go microservices. gRPC, Kafka, PostgreSQL, Redis. Built payment processing platform handling $1B+ monthly transactions.",Backend,Senior,9
+"Desarrollador senior backend con experiencia en Python, FastAPI y arquitectura de microservicios. Liderazgo técnico, mentoring y optimización de sistemas de alto tráfico.",Backend,Senior,8
+"Senior software engineer. 11 years with Java Spring, Hibernate, Oracle, Kafka. Enterprise-level backend systems in banking and fintech.",Backend,Senior,11
+"Senior Node.js engineer. Lideré la migración de monolito a microservicios. Docker, Kubernetes, Redis, Elasticsearch. Equipos distribuidos.",Backend,Senior,8
+"Junior frontend developer with knowledge of HTML, CSS and JavaScript. Created responsive landing pages and small React components.",Frontend,Junior,1
+"Estudiante de diseño web. HTML, CSS, JavaScript básico. Creación de páginas responsivas con Bootstrap y Flexbox.",Frontend,Junior,0
+Junior React developer. Built simple SPAs with React and Context API. Consumed REST APIs and styled with TailwindCSS.,Frontend,Junior,1
+"Practicante frontend. Trabajo con HTML, CSS, JavaScript y Vue.js básico. Corrección de bugs y mejoras de UI.",Frontend,Junior,1
+"Self-taught frontend developer. Built personal projects with React, styled-components and REST API consumption.",Frontend,Junior,1
+"Recién egresado. Proyecto de grado con Angular y TypeScript. Conexión a APIs REST, formularios reactivos y manejo de rutas.",Frontend,Junior,0
+Junior developer con enfoque en React y Next.js. Trabajo en proyectos freelance de landing pages y sitios estáticos.,Frontend,Junior,1
+"Frontend trainee. HTML, CSS, JavaScript, React básico. Pasantía en agencia digital. Creación de componentes de UI.",Frontend,Junior,1
+"Junior frontend engineer. React, TypeScript, TailwindCSS. Integrated REST APIs, handled form validations, deployed on Vercel.",Frontend,Junior,2
+"Desarrollador frontend junior. Vue.js, Vuex, HTML, CSS, SASS. Trabajo en equipo con metodologías ágiles, Git y revisión de código.",Frontend,Junior,1
+"Frontend developer specialized in React, TailwindCSS and TypeScript. Built responsive interfaces connected to REST APIs.",Frontend,Mid,4
+"Vue.js frontend engineer using Tailwind, Vite and TypeScript in SPA applications. 3 years of experience.",Frontend,Mid,3
+"Desarrollador frontend mid-level. React, Redux Toolkit, TypeScript, Next.js. Optimización de performance, SEO y accesibilidad.",Frontend,Mid,4
+"Angular developer with 4 years building enterprise dashboards. TypeScript, RxJS, NgRx, REST API integration.",Frontend,Mid,4
+"Frontend engineer. React, Next.js, GraphQL, Styled Components. 4 years working in product teams with designers and backend engineers.",Frontend,Mid,4
+"Desarrollador React con 3 años de experiencia. Redux, React Query, TailwindCSS, testing con Jest y React Testing Library.",Frontend,Mid,3
+"Mid Vue.js developer. Vuex, Vue Router, Vite, Composition API. Built complex admin panels for SaaS platforms.",Frontend,Mid,3
+"Frontend developer con experiencia en Angular, TypeScript y Material UI. Trabajo en proyectos enterprise con equipos ágiles.",Frontend,Mid,4
+"React and Next.js developer. 4 years building e-commerce frontends. Performance optimization, Lighthouse scores, SSR/SSG.",Frontend,Mid,4
+"Desarrollador frontend mid. Vue 3, Pinia, Vite, TypeScript, TailwindCSS. Trabajo en startups y proyectos freelance de mediana complejidad.",Frontend,Mid,3
+"Senior frontend engineer with 8 years of experience. React, TypeScript, Next.js. Led frontend architecture migrations, mentored junior developers.",Frontend,Senior,8
+"Lead frontend developer. 9 años con React, Vue, Angular. Definición de arquitectura frontend, Design Systems, mentoring de equipos.",Frontend,Senior,9
+"Senior React engineer. Micro-frontends architecture, Module Federation, GraphQL, TypeScript, testing strategy. 8 years in product companies.",Frontend,Senior,8
+"Frontend tech lead. 10 años liderando equipos. Arquitectura de aplicaciones complejas en Angular. Revisión de código, mentoring senior y definición de estándares.",Frontend,Senior,10
+"Senior frontend developer specialized in performance optimization. React, Next.js, Webpack, Core Web Vitals. Reduced load times by 60%.",Frontend,Senior,7
+"Junior DevOps with Linux basics, Git, Docker and server management. Learning CI/CD pipelines and cloud fundamentals.",DevOps,Junior,1
+"Estudiante de sistemas con interés en DevOps. Practicas con Docker, Bash scripting y GitHub Actions en proyectos personales.",DevOps,Junior,0
+"Junior Linux admin. Mantenimiento de servidores, scripts Bash, configuración de servicios Nginx. Aprendiendo Docker y Terraform.",DevOps,Junior,1
+"DevOps trainee. Docker, Linux, GitHub Actions basics. Assisted senior engineers with deployments and monitoring setup.",DevOps,Junior,1
+"Recién egresado interesado en DevOps. Experiencia con Docker Compose, scripts Bash y administración básica de servidores Ubuntu.",DevOps,Junior,1
+"Junior cloud engineer. AWS fundamentals, EC2, S3, IAM. Basic Terraform scripts, Docker containerization for dev environments.",DevOps,Junior,1
+"Pasante DevOps. Automatización de deploys con GitHub Actions, administración Linux, monitoreo con Grafana y Prometheus.",DevOps,Junior,1
+"Linux administrator with experience using SSH, GitHub Actions and Docker deployments on VPS servers.",DevOps,Mid,4
+"DevOps engineer. Docker, Kubernetes, AWS, Terraform. Manage CI/CD pipelines with Jenkins and GitHub Actions. Linux administration.",DevOps,Mid,5
+"Ingeniero DevOps con 4 años de experiencia. Docker Compose, Kubernetes, Ansible, Terraform, pipelines CI/CD, monitoreo con Prometheus.",DevOps,Mid,4
+"Cloud engineer. AWS (EC2, RDS, Lambda, EKS), Terraform, Docker, GitHub Actions. 4 years building cloud-native infrastructure.",DevOps,Mid,4
+"DevOps mid-level. Administración de clusters Kubernetes, Helm charts, Nginx ingress, Grafana y ELK stack para monitoreo.",DevOps,Mid,3
+"Site Reliability Engineer. Linux, Docker, Kubernetes, Terraform, Datadog. Automated deployments and incident response.",DevOps,Mid,4
+"Especialista DevOps. Pipelines con GitLab CI, despliegues Blue-Green, Docker Swarm, gestión de secretos con Vault.",DevOps,Mid,5
+"Azure DevOps engineer. Azure Pipelines, AKS, ARM Templates, Terraform, GitHub Actions. 4 years in enterprise environments.",DevOps,Mid,4
+"Ingeniero de infraestructura cloud. AWS, Terraform, Ansible, Docker, Kubernetes. Automatización de aprovisionamiento y despliegue continuo.",DevOps,Mid,4
+"Senior DevOps engineer with 8 years. Docker, Kubernetes, AWS, Terraform, Jenkins, Ansible. Led infrastructure automation for teams of 50+ engineers.",DevOps,Senior,8
+"Arquitecto cloud senior. AWS, GCP, Terraform, Kubernetes, service mesh Istio. Liderazgo de migración de infraestructura on-premise a cloud.",DevOps,Senior,10
+"Senior SRE. Defined SLOs, error budgets, incident management. Kubernetes, Terraform, Prometheus, Grafana, PagerDuty. 9 years.",DevOps,Senior,9
+"Lead DevOps engineer. 10 años gestionando plataformas críticas. Multi-cloud AWS/Azure, Kubernetes, GitOps con ArgoCD, mentoring de equipos.",DevOps,Senior,10
+"Senior platform engineer. Designed internal developer platforms using Backstage, Kubernetes, Terraform Cloud. Reduced deployment times by 80%.",DevOps,Senior,8
+"CCNA student with knowledge of routing, switching, VLANs and Cisco network infrastructure. Experience configuring routers and switches.",Networking,Junior,1
+"Estudiante de redes. Configuración básica de routers Cisco, switches, VLANs y protocolos TCP/IP. Cursando CCNA.",Networking,Junior,0
+"Junior network technician. Configured Cisco routers and switches. VLAN setup, DHCP configuration, basic firewall rules.",Networking,Junior,1
+"Técnico de redes junior. Instalación de cableado estructurado, configuración de switches Cisco y Mikrotik, soporte LAN/WAN.",Networking,Junior,1
+"Egresado de telecomunicaciones. Configuración de routers Mikrotik, administración DNS/DHCP, soporte de conectividad para empresa local.",Networking,Junior,1
+"Entry-level network engineer. CCNA coursework completed. Hands-on lab experience with Cisco IOS, routing protocols OSPF, RIP.",Networking,Junior,1
+"Soporte técnico en empresa ISP. Configuración de routers domésticos, diagnóstico de conectividad, ticketing, soporte telefónico.",Networking,Junior,1
+"Junior network support. Troubleshooting LAN issues, VLAN configuration on Cisco Catalyst switches, cable patching.",Networking,Junior,1
+"Técnico junior redes. Mantenimiento de cableado estructurado, configuración de APs WiFi, administración de switches managed.",Networking,Junior,1
+"Estudiante CCNA. Simulaciones en Packet Tracer, configuración de OSPF, VLANs, STP, SSH en equipos Cisco.",Networking,Junior,0
+"Network administrator managing DNS, DHCP, firewalls and Mikrotik infrastructure. 5 years of experience.",Networking,Mid,5
+"Administrador de redes Cisco. Configuración de routers, switches, VLANs, OSPF, BGP. Gestión de infraestructura de red empresarial.",Networking,Mid,5
+"Network engineer with 4 years. Cisco routing and switching, firewall management (Fortinet, pfSense), VPN setup, network monitoring.",Networking,Mid,4
+"Ingeniero de redes. Administración Cisco, Mikrotik, VLANs, QoS, BGP. Gestión de ISP regional con más de 1000 clientes.",Networking,Mid,5
+"Network administrator. DNS, DHCP, VPN, firewall (pfSense, Cisco ASA). Managed campus network with 500+ endpoints.",Networking,Mid,4
+"Especialista en infraestructura de red. Cisco IOS, OSPF, BGP, Mikrotik RouterOS. Diseño y mantenimiento de topologías LAN/WAN.",Networking,Mid,5
+"Wireless network engineer. 4 years deploying Ubiquiti and Cisco Meraki networks. Hotspot management, RADIUS, captive portals.",Networking,Mid,4
+"Administrador Mikrotik. CHR, RouterOS, BGP, OSPF, MPLS, gestión de ancho de banda, queues, firewall. ISP.",Networking,Mid,4
+"Network operations center engineer. Monitoring with Zabbix, SNMP, troubleshooting BGP routing issues, incident management.",Networking,Mid,4
+"Ingeniero de redes corporativas. Cisco Catalyst, Meraki, Fortinet. Segmentación VLAN, ACLs, políticas QoS y VPN IPSec.",Networking,Mid,5
+"Senior network engineer with enterprise networking experience. Cisco routing, switching, BGP, MPLS, firewall policy design.",Networking,Senior,8
+"Arquitecto de red senior. Diseño de topologías WAN/LAN para empresa multinacional. Cisco, Juniper, BGP, MPLS, SD-WAN.",Networking,Senior,10
+"Senior network architect. BGP, MPLS, OSPF, SD-WAN, Fortinet security policies. Led network redesign for 3000+ user campus.",Networking,Senior,12
+"Lead network engineer. 10 años diseñando y administrando redes complejas. Cisco, Juniper, Aruba. Mentoring de técnicos junior.",Networking,Senior,10
+"Senior NOC engineer. Monitored and managed backbone network. BGP peering, DDoS mitigation, 99.99% uptime SLA.",Networking,Senior,9
+"Junior data analyst using Python, Jupyter notebooks and SQL queries. Learning pandas, numpy and matplotlib.",Data Science,Junior,1
+"Estudiante de ciencias de datos. Python, pandas, scikit-learn. Proyectos de análisis exploratorio y visualización de datos.",Data Science,Junior,0
+Junior data scientist. Built regression and classification models with scikit-learn. Worked with CSV datasets and SQL databases.,Data Science,Junior,1
+"Trainee en análisis de datos. Excel avanzado, SQL, Python básico. Dashboards en Power BI para reportes de ventas.",Data Science,Junior,1
+"Recién egresado de estadística. Modelos predictivos con R y Python. Regresión lineal, árboles de decisión, validación cruzada.",Data Science,Junior,0
+"Junior ML engineer. Built sentiment analysis pipeline using NLP, TF-IDF and Naive Bayes classifier. Python, scikit-learn.",Data Science,Junior,1
+"Pasante de análisis de datos. SQL, pandas, matplotlib, seaborn. Limpieza y análisis de datasets para equipo de marketing.",Data Science,Junior,1
+"Machine learning engineer using scikit-learn, pandas and NumPy for predictive analytics systems.",Data Science,Mid,4
+"Data scientist con 4 años. Python, pandas, scikit-learn, XGBoost. Modelos de churn prediction, segmentación de clientes.",Data Science,Mid,4
+"ML engineer. TensorFlow, Keras, scikit-learn. Built image classification models for manufacturing defect detection.",Data Science,Mid,4
+"Científico de datos mid-level. Series temporales con Prophet y ARIMA. Análisis de datos financieros, visualizaciones con Plotly.",Data Science,Mid,4
+"NLP engineer. 4 years building text classification, NER and summarization systems. spaCy, transformers (BERT), TF-IDF.",Data Science,Mid,4
+"Data engineer with Python, Spark, Airflow, PostgreSQL. Building ETL pipelines and data lakes for analytics teams.",Data Science,Mid,4
+"Analista de datos mid. SQL avanzado, Python, pandas, Power BI, Tableau. Reporting automatizado para dirección comercial.",Data Science,Mid,3
+"Computer vision engineer. PyTorch, OpenCV, YOLO. Built object detection models for retail analytics applications.",Data Science,Mid,4
+"Deep learning researcher using PyTorch, TensorFlow and computer vision techniques. 8 years of experience.",Data Science,Senior,8
+"Senior ML engineer. Led development of recommendation systems serving 5M+ users. Spark, TensorFlow, MLflow, Kubeflow.",Data Science,Senior,8
+"Principal data scientist. 10 años. NLP, LLM fine-tuning, RAG architectures. Liderazgo técnico de equipos de ciencia de datos.",Data Science,Senior,10
+"Senior data engineer. Designed petabyte-scale data platforms using Spark, Kafka, Airflow, Databricks, Delta Lake.",Data Science,Senior,9
+"Lead data scientist. Modelos de fraud detection en tiempo real. Feature engineering avanzado, XGBoost, LightGBM, MLflow.",Data Science,Senior,8
+"Junior QA analyst performing manual testing, bug reporting and API testing with Postman.",QA,Junior,1
+"Tester junior. Pruebas funcionales manuales, redacción de casos de prueba, seguimiento de defectos con Jira.",QA,Junior,1
+"QA trainee. Manual testing of web applications, API testing with Postman, test case documentation.",QA,Junior,1
+"Recién egresado interesado en QA. Testing manual, básico de Selenium, documentación de bugs, métricas de calidad.",QA,Junior,0
+"Junior QA engineer. Basic Cypress E2E tests, manual regression testing, test plan writing. Worked in Scrum teams.",QA,Junior,1
+"Analista QA junior. Pruebas de regresión, smoke testing, integración continua básica, reporte de defectos en GitLab.",QA,Junior,1
+"QA automation engineer using Selenium, Cypress and Playwright for end-to-end testing.",QA,Mid,4
+"Ingeniero QA con 4 años. Automatización con Selenium WebDriver, Python, pytest. Pipelines CI/CD con GitHub Actions.",QA,Mid,4
+"QA engineer. Playwright, Cypress, Jest. API testing with Postman and RestAssured. Performance testing with JMeter.",QA,Mid,3
+"QA automation mid. Framework de pruebas con Robot Framework, Selenium. Reportes con Allure. Integración con Jenkins.",QA,Mid,4
+"SDET engineer. Automated regression testing for SaaS platform. TypeScript, Playwright, GitHub Actions, test pyramid strategy.",QA,Mid,4
+"QA lead (mid). Coordinación del equipo de testing, definición de estrategias QA, automatización con Selenium y Python.",QA,Mid,5
+"Senior QA engineer with 8 years. Defined testing strategies, automated test frameworks, led quality processes for 5+ product teams.",QA,Senior,8
+"QA architect senior. Diseño de frameworks de automatización escalables. Selenium, Appium, Playwright, JMeter. Mentoring de equipos.",QA,Senior,9
+"Senior SDET. 8 years. Shifted left testing culture, contract testing with Pact, performance testing, chaos engineering.",QA,Senior,8
+"Estudiante de ciberseguridad. CTF competitions, Kali Linux básico, OWASP Top 10, análisis de vulnerabilidades web.",Seguridad,Junior,0
+"Junior security analyst. Vulnerability scanning with Nessus, OWASP testing, basic penetration testing on labs.",Seguridad,Junior,1
+"Trainee SOC. Monitoreo de alertas en SIEM, clasificación de incidentes, análisis básico de logs de red.",Seguridad,Junior,1
+"Ethical hacking enthusiast. Completed CEH coursework. Burp Suite, Kali Linux, SQL injection and XSS testing in CTFs.",Seguridad,Junior,0
+"Junior pentester. Pruebas de penetración en entornos controlados. Metasploit, Nmap, Wireshark, análisis de tráfico de red.",Seguridad,Junior,1
+"Cybersecurity analyst with experience in penetration testing, OWASP and Kali Linux. 4 years of experience.",Seguridad,Mid,4
+"Analista de seguridad informática. Pentesting, análisis de malware, respuesta a incidentes, SIEM (Splunk), Linux.",Seguridad,Mid,4
+"SOC analyst. Threat hunting, SIEM management, malware analysis, incident response. 4 years in enterprise environments.",Seguridad,Mid,4
+"Security engineer. Firewall management (Palo Alto, Fortinet), IDS/IPS, VPN administration, vulnerability management.",Seguridad,Mid,4
+"Especialista en ciberseguridad. Auditorías de seguridad, pentesting web, análisis forense digital, gestión de cumplimiento ISO 27001.",Seguridad,Mid,5
+"Application security engineer. SAST, DAST tools integration in CI/CD. Code review for security vulnerabilities, OWASP training.",Seguridad,Mid,4
+"SOC analyst working with SIEM tools, malware analysis and incident response. 7 years of experience.",Seguridad,Senior,7
+"Senior penetration tester. Red team operations, exploit development, social engineering. OSCP certified. 8 years.",Seguridad,Senior,8
+"CISO adjunto. 10 años en ciberseguridad. Estrategia de seguridad, cumplimiento regulatorio, gestión de riesgos, SOC.",Seguridad,Senior,10
+"Senior cloud security architect. AWS security, IAM policies, GuardDuty, Security Hub, Zero Trust architecture.",Seguridad,Senior,8
+"Estudiante de diseño gráfico. Figma, Adobe XD, Photoshop, Illustrator. Proyectos de landing pages y branding universitario.",Diseño,Junior,0
+"Junior UI/UX designer. Wireframing and prototyping in Figma. User research basics, usability testing, design handoff to developers.",Diseño,Junior,1
+"Diseñador junior. Figma, Adobe XD, Illustrator. Creación de mockups y prototipos para aplicaciones móviles y web.",Diseño,Junior,1
+"Graphic design trainee. Adobe suite (Photoshop, Illustrator, InDesign), social media content design, basic Figma skills.",Diseño,Junior,1
+"UX designer in training. Completed Google UX Design Certificate. Figma prototypes, user journey maps, personas.",Diseño,Junior,0
+"UI/UX designer using Figma, wireframes and prototyping for responsive interfaces. 3 years of experience.",Diseño,Mid,3
+"Diseñadora UI/UX mid-level. Figma, Sketch, sistemas de diseño, Design Tokens, colaboración con equipos de desarrollo.",Diseño,Mid,4
+"Product designer. 4 years creating end-to-end product design. User research, IA, wireframing, Figma, Maze usability testing.",Diseño,Mid,4
+"UX researcher and designer. 3 años realizando entrevistas de usuario, pruebas de usabilidad, análisis de datos cualitativos.",Diseño,Mid,3
+"Motion and UX designer. After Effects, Figma, Principle. Created interactive prototypes and microinteraction animations.",Diseño,Mid,3
+"Senior product designer with 8 years. Led design systems initiatives, mentored junior designers, collaborated with C-suite stakeholders.",Diseño,Senior,8
+"Head of design. 10 años liderando equipos de diseño. Design Systems, UX Strategy, branding corporativo, cultura de diseño.",Diseño,Senior,10
+"Senior UX architect. 9 years defining information architecture, design principles and accessibility standards for large platforms.",Diseño,Senior,9
+"Estudiante de desarrollo móvil. Android con Kotlin básico, proyectos universitarios de apps simples con Room y ViewModel.",Mobile,Junior,0
+"Junior React Native developer. Built simple mobile apps consuming REST APIs. Navigation with React Navigation, styling basics.",Mobile,Junior,1
+"Flutter trainee. Dart básico, widgets, navegación, consumo de APIs REST. Proyecto de app de lista de tareas publicada en Google Play.",Mobile,Junior,1
+"Junior iOS developer. Swift, SwiftUI basics. Built a personal finance app as capstone project at bootcamp.",Mobile,Junior,1
+"React Native developer. 4 years building cross-platform apps for iOS and Android. Redux, REST APIs, push notifications.",Mobile,Mid,4
+"Desarrollador Android mid-level. Kotlin, Jetpack Compose, MVVM, Retrofit, Room, Coroutines. Apps publicadas en Google Play.",Mobile,Mid,4
+"Flutter developer. 3 years. Dart, BLoC pattern, Firebase integration, custom animations, published on both stores.",Mobile,Mid,3
+"iOS developer mid. Swift, UIKit, SwiftUI, Core Data, URLSession, MVVM. 4 years en startups de salud y fintech.",Mobile,Mid,4
+"Senior React Native engineer. 8 years mobile development. Native modules, performance optimization, CI/CD with Fastlane.",Mobile,Senior,8
+"Lead Android developer. 9 años. Kotlin, arquitectura modular, Hilt, Jetpack Compose. Liderazgo de equipo de 6 developers.",Mobile,Senior,9
+"Senior iOS architect. Swift, SwiftUI, Combine, TDD. Designed scalable modular iOS app architecture for enterprise banking app.",Mobile,Senior,8
+"Estudiante con conocimientos básicos de SQL. MySQL, consultas SELECT, JOIN, GROUP BY. Proyectos académicos con bases de datos relacionales.",Database,Junior,0
+"Junior DBA trainee. MySQL, PostgreSQL basics, backup procedures, simple query optimization.",Database,Junior,1
+"Desarrollador junior con manejo de bases de datos. PostgreSQL, MySQL, consultas complejas, procedimientos almacenados básicos.",Database,Junior,1
+"Database administrator. PostgreSQL, MySQL, MongoDB. Query optimization, indexing, backup strategies, replication setup.",Database,Mid,4
+"DBA mid-level. Oracle, PostgreSQL. Tuning de queries, particionamiento de tablas, administración de backups, alta disponibilidad.",Database,Mid,5
+"Data engineer. PostgreSQL, BigQuery, Snowflake, dbt. Designed dimensional models and data warehouses for analytics.",Database,Mid,4
+"MongoDB specialist. Aggregation pipelines, sharding, replica sets, schema design patterns, Atlas cloud management.",Database,Mid,3
+"Senior DBA with 10 years. Oracle, PostgreSQL, MySQL. High availability, disaster recovery, performance tuning, capacity planning.",Database,Senior,10
+"Arquitecto de datos senior. 9 años. PostgreSQL, Oracle, Snowflake, Kafka. Diseño de arquitecturas de datos para sistemas críticos.",Database,Senior,9
+"Estudiante con interés en cloud. Cursando AWS Cloud Practitioner. EC2, S3, IAM básico en proyectos de laboratorio.",Cloud Computing,Junior,0
+"Junior cloud engineer. AWS fundamentals, basic Terraform, S3 bucket management, EC2 setup for dev environments.",Cloud Computing,Junior,1
+"Trainee cloud. Azure fundamentals certificado. Desplegando VMs, App Services, Azure Functions básico.",Cloud Computing,Junior,1
+"AWS cloud engineer. EC2, RDS, Lambda, S3, CloudFormation, IAM. 4 years building and maintaining cloud infrastructure.",Cloud Computing,Mid,4
+"Ingeniero cloud Azure. ARM Templates, Terraform, Azure DevOps, AKS, Azure Functions. 4 años en consultoría cloud.",Cloud Computing,Mid,4
+"Multi-cloud engineer. AWS and GCP. Terraform, Kubernetes, cost optimization, auto-scaling, managed databases.",Cloud Computing,Mid,4
+"Senior cloud architect. AWS, Terraform, Kubernetes. Designed multi-region active-active architectures for fintech platforms.",Cloud Computing,Senior,9
+Lead cloud engineer. 10 años. AWS Solutions Architect Professional. Lideré migraciones cloud de sistemas legacy en empresas enterprise.,Cloud Computing,Senior,10
+"Técnico de soporte nivel 1. Atención de tickets, soporte telefónico, resolución de incidencias de hardware y software.",Soporte Técnico,Junior,1
+"IT support technician. Help desk, ticketing with ServiceNow, hardware troubleshooting, Windows and Office 365 support.",Soporte Técnico,Junior,1
+"Soporte técnico junior en call center. Diagnóstico de problemas de conectividad, soporte a usuarios finales, sistema de tickets.",Soporte Técnico,Junior,1
+"Desktop support technician. Windows installation, Active Directory basics, printer setup, network connectivity troubleshooting.",Soporte Técnico,Junior,1
+"Estudiante de sistemas trabajando en soporte universitario. Mantenimiento de PCs, instalación de software, soporte a docentes.",Soporte Técnico,Junior,0
+"Pasante en soporte TI. Gestión de inventario hardware, configuración de equipos nuevos, soporte nivel 1 presencial.",Soporte Técnico,Junior,1
+"Junior IT support. Resolved hardware and software issues, managed user accounts in Active Directory, VPN setup.",Soporte Técnico,Junior,1
+"Soporte técnico universitario. Mantenimiento de laboratorios de cómputo, instalación de software educativo, atención a estudiantes.",Soporte Técnico,Junior,1
+"Entry-level IT technician. Remote desktop support, Outlook configuration, antivirus management, basic network troubleshooting.",Soporte Técnico,Junior,1
+"Técnico PC freelance. Reparación de equipos, formateo, instalación de Windows, redes domésticas, recuperación de datos.",Soporte Técnico,Junior,2
+"IT support specialist. 4 years managing helpdesk, Active Directory, Group Policy, Exchange, SCCM deployments.",Soporte Técnico,Mid,4
+"Especialista soporte TI. Soporte nivel 2, administración Active Directory, Office 365, gestión de incidentes críticos.",Soporte Técnico,Mid,4
+"Senior helpdesk analyst. ITIL certified. Managed SLAs, escalation procedures, knowledge base, vendor coordination.",Soporte Técnico,Mid,5
+"IT field engineer. On-site support, network troubleshooting, server maintenance, backup verification, hardware upgrades.",Soporte Técnico,Mid,4
+"Técnico TI senior. Soporte multinivel, administración de servidores Windows Server, Hyper-V, Active Directory, redes LAN/WAN.",Soporte Técnico,Mid,5
+"Técnico junior de infraestructura. Instalación de servidores físicos, cableado estructurado, mantenimiento de rack.",Infraestructura,Junior,1
+"Junior infrastructure technician. VMware basics, Windows Server installation, server racking and stacking.",Infraestructura,Junior,1
+"Trainee infraestructura. Linux básico, administración de VMs en VMware vSphere, monitoreo con Zabbix.",Infraestructura,Junior,1
+"Estudiante de sistemas con interés en infraestructura. Laboratorios con Proxmox, VMs Linux, redes básicas, SSH.",Infraestructura,Junior,0
+"Junior sysadmin. Linux Ubuntu/CentOS administration, Apache/Nginx setup, user management, cron jobs, basic monitoring.",Infraestructura,Junior,1
+"Infrastructure engineer. VMware vSphere, Windows Server, Linux, SAN storage, backup (Veeam), monitoring Zabbix.",Infraestructura,Mid,5
+"Administrador de infraestructura. Virtualización con VMware y Proxmox, servidores Linux y Windows, almacenamiento NAS/SAN.",Infraestructura,Mid,4
+"Systems administrator. Linux (RHEL, Ubuntu), Ansible automation, Nginx, HAProxy, monitoring with Grafana and Prometheus.",Infraestructura,Mid,5
+"Especialista en infraestructura on-premise. VMware vSphere, Windows Server 2019, Active Directory, DNS, DHCP, NPS.",Infraestructura,Mid,4
+"Infrastructure and virtualization engineer. Proxmox cluster management, Ceph storage, LXC containers, pfSense firewalls.",Infraestructura,Mid,4
+"Senior infrastructure architect. 10 years. VMware, Nutanix HCI, NetApp SAN, DR planning, capacity planning.",Infraestructura,Senior,10
+"Arquitecto de infraestructura senior. Diseño de datacenters, virtualización VMware, redes Cisco, almacenamiento EMC.",Infraestructura,Senior,11
+"Lead infrastructure engineer. 9 years. Hybrid cloud (AWS + on-premise), Kubernetes, Terraform, Ansible. Team of 8.",Infraestructura,Senior,9
+"Junior sysadmin. Linux Ubuntu, administración básica de usuarios, permisos, cron, Nginx, firewall iptables.",SysAdmin,Junior,1
+"Entry-level system administrator. Windows Server, Active Directory basics, Group Policy, file share management.",SysAdmin,Junior,1
+"Estudiante sysadmin. Administración de sistemas Linux, scripts Bash, monitoreo con htop/netstat, SSH, crontab.",SysAdmin,Junior,0
+"Trainee administrador de sistemas. Windows Server 2019, Active Directory, backups, DNS, DHCP empresarial.",SysAdmin,Junior,1
+"Linux systems administrator. RHEL, CentOS, Ubuntu. Bash scripting automation, Ansible playbooks, Nginx, Apache, cron, monitoring.",SysAdmin,Mid,5
+"Administrador de sistemas Windows/Linux. Active Directory, Exchange, Office 365, Hyper-V, scripts PowerShell.",SysAdmin,Mid,4
+"SysAdmin mid-level. Ubuntu, Debian, RHEL. Docker, Nginx, Let's Encrypt, fail2ban, Zabbix monitoring, Ansible.",SysAdmin,Mid,4
+"System administrator. Windows Server, AD, Exchange, SCCM, Veeam backup. Managed infrastructure for 200+ users.",SysAdmin,Mid,5
+"Senior Linux sysadmin. 9 years. RHEL, Puppet, Chef, Ansible, Nagios, performance tuning, security hardening.",SysAdmin,Senior,9
+"Senior systems administrator. Windows y Linux. 10 años administrando infraestructura crítica. Hyper-V, VMware, AD, PKI.",SysAdmin,Senior,10
+"Lead sysadmin. Managed 500+ Linux servers. Puppet automation, Nagios/Prometheus monitoring, security hardening, DR procedures.",SysAdmin,Senior,8
+"Junior fullstack developer. React frontend, Node.js backend, PostgreSQL. Worked on freelance projects and bootcamp assignments.",Fullstack,Junior,1
+"Desarrollador fullstack junior. Vue.js, Laravel, MySQL. Proyecto final académico: sistema de gestión de inventario.",Fullstack,Junior,1
+"Trainee fullstack. React, Express, MongoDB. Built a simple task management app with user auth and CRUD operations.",Fullstack,Junior,1
+"Egresado fullstack. Next.js, FastAPI, PostgreSQL. Portfolio de proyectos en GitHub. Buscando primer empleo.",Fullstack,Junior,0
+"Fullstack developer using React, Node.js, Express and PostgreSQL. Experience deploying applications on Linux servers.",Fullstack,Mid,5
+Desarrollador fullstack mid. Angular + Spring Boot + PostgreSQL. 4 años en proyectos enterprise de gestión.,Fullstack,Mid,4
+"Fullstack engineer. Next.js, Node.js, MongoDB, Docker. 4 years building SaaS applications end-to-end.",Fullstack,Mid,4
+"Desarrollador fullstack. Vue.js + Django + PostgreSQL. Integración de pasarelas de pago, dashboards analíticos.",Fullstack,Mid,3
+"Fullstack developer. React, TypeScript, Python FastAPI, PostgreSQL. Built internal tools for operations teams.",Fullstack,Mid,4
+"Senior fullstack engineer. 8 years. React, Node.js, PostgreSQL, Docker. Led 5-person team delivering SaaS platform.",Fullstack,Senior,8
+"Arquitecto fullstack senior. Vue.js, Nuxt, Laravel, MySQL, Redis. 10 años. Liderazgo técnico, definición de stack y arquitectura.",Fullstack,Senior,10
+"Senior fullstack developer. Next.js, Python Django, PostgreSQL, AWS. Designed and built multi-tenant SaaS from scratch.",Fullstack,Senior,8
+"Backend and DevOps engineer. Node.js REST APIs, Docker Compose, GitHub Actions CI/CD, Linux server administration. 4 years.",Backend,Mid,4
+"Desarrollador backend con experiencia en DevOps. Python FastAPI, Docker, Kubernetes, AWS. Deploy automatizado con Terraform.",Backend,Mid,5
+"Backend engineer transitioning to DevOps. Node.js, Express, Docker, Linux, CI/CD pipelines, basic Terraform.",Backend,Mid,4
+"Frontend developer with strong design skills. React, Figma, TailwindCSS. Implements pixel-perfect UI from design specs.",Frontend,Mid,3
+"Diseñador y desarrollador frontend. Figma, HTML, CSS, Vue.js. Proyecto de diseño end-to-end: wireframes hasta implementación.",Frontend,Mid,4
+"Network and Linux administrator. Cisco routing, switching, DNS, DHCP, Linux server administration, SSH, Bash scripting.",Networking,Mid,5
+"Técnico de redes y sistemas Linux. Mikrotik, VLANs, Ubuntu Server, Nginx, SSH, monitoreo con Zabbix.",Networking,Mid,4
+"Network engineer with Linux expertise. Cisco IOS, pfSense, Ubuntu Server, Bash scripts, DNS/DHCP management.",Networking,Mid,4
+"Backend developer with AWS cloud experience. Node.js, Lambda, API Gateway, RDS, Docker, S3. Serverless architectures.",Backend,Mid,4
+"Python backend engineer con experiencia en cloud. FastAPI, AWS Lambda, DynamoDB, SQS, Docker. Arquitecturas serverless.",Backend,Mid,4
+"DevOps and sysadmin engineer. Linux, Ansible, Docker, Nginx, monitoring, CI/CD. Migrated bare-metal to containerized infra.",DevOps,Mid,5
+"SysAdmin devenido DevOps. Administración Linux, Docker, GitHub Actions, Terraform, Grafana, Prometheus. 5 años.",DevOps,Mid,5
+"IT support specialist with infrastructure knowledge. Helpdesk, Active Directory, VMware VMs, network troubleshooting.",Soporte Técnico,Mid,4
+"Soporte técnico avanzado con experiencia en infraestructura. Windows Server, Linux, VMware, backups, networking básico.",Soporte Técnico,Mid,4
+"Fullstack developer with DevOps skills. React, Node.js, PostgreSQL, Docker, GitHub Actions, AWS. Self-sufficient for deployments.",Fullstack,Mid,5
+"Desarrollador fullstack y DevOps. Vue.js, FastAPI, Docker Compose, CI/CD con GitLab, despliegues en VPS Linux.",Fullstack,Mid,4
+"Network and infrastructure engineer. Cisco Catalyst, VMware, DNS, DHCP, firewall Fortinet, Zabbix monitoring.",Networking,Mid,5
+"Ingeniero de redes e infraestructura. Cisco, Mikrotik, VMware vSphere, Windows Server, Linux, cableado estructurado.",Infraestructura,Mid,5
+"ML engineer with backend experience. Python, FastAPI, scikit-learn, Docker. Built and deployed ML models as REST APIs.",Data Science,Mid,4
+"Data scientist con backend. Python, Django, pandas, PostgreSQL, scikit-learn. Pipeline de datos end-to-end.",Data Science,Mid,4
+"Estudiante de Ingeniería en Sistemas. Experiencia en Node.js, Express, EJS, JavaScript, Linux y servidores SSH. Conocimientos de redes, CCNA, soporte técnico e infraestructura.",Backend,Junior,1
+"Computer science student. Passionate about backend development and cloud computing. Projects with Python, Flask, AWS free tier.",Backend,Junior,0
+"Estudiante de telecomunicaciones. Conocimientos en redes, CCNA en curso, Linux, soporte técnico universitario.",Networking,Junior,0
+"Egresado reciente en Ciencias de Datos. Python, pandas, matplotlib, SQL. Tesis sobre modelos de clasificación.",Data Science,Junior,0
+"IT student working part-time as helpdesk support. Ticketing, hardware troubleshooting, basic networking.",Soporte Técnico,Junior,1
+"Estudiante de diseño multimedia. Figma, Adobe XD, Illustrator. Proyectos de UI para apps móviles y sitios web.",Diseño,Junior,0
+"Trainee QA. Probando aplicaciones web manualmente, aprendiendo Selenium, documentando casos de prueba en Confluence.",QA,Junior,0
+"Apprentice DevOps. Running Linux VMs in VirtualBox, writing basic Bash scripts, learning Docker from online courses.",DevOps,Junior,0
+"Android development student. Kotlin, basic Jetpack libraries. Published simple calculator app on Play Store as learning exercise.",Mobile,Junior,0
+"Estudiante de ciberseguridad. CTFs en HackTheBox, Kali Linux, conceptos de OWASP. Aprendiendo pentesting ético.",Seguridad,Junior,0
+"
+EXPERIENCIA LABORAL
+
+Desarrollador Backend - Empresa TechSoft S.A.
+Enero 2022 - Actualidad
+
+- Desarrollo de APIs REST con Node.js y Express
+- Gestión de base de datos PostgreSQL
+- Implementación de autenticación JWT
+- Despliegue en servidor Linux con Nginx
+- Integración con servicios de terceros (Stripe, SendGrid)
+
+HABILIDADES: Node.js, Express, PostgreSQL, JWT, Linux, Nginx, Git
+",Backend,Mid,3
+"
+PERFIL PROFESIONAL
+
+Ingeniero de Redes con 6 años de experiencia en administración de infraestructura
+de telecomunicaciones. Especialista en equipos Cisco y Mikrotik.
+
+EXPERIENCIA
+
+Administrador de Red - ISP Regional
+2019 - 2025
+
+- Gestión de routers Cisco (IOS) y Mikrotik (RouterOS)
+- Configuración de VLANs, OSPF y BGP
+- Administración de firewall pfSense
+- Monitoreo de red con Zabbix y MRTG
+- Soporte de conectividad para +2000 clientes
+",Networking,Mid,6
+"
+Técnico de Soporte - Universidad Nacional
+Marzo 2021 - Actualidad
+
+Responsable del laboratorio de cómputo.
+
+Funciones:
+- Mantenimiento preventivo y correctivo de 80 equipos
+- Instalación y configuración de software académico
+- Soporte a docentes y estudiantes
+- Administración de red LAN del laboratorio
+- Gestión de inventario de hardware
+
+Habilidades: Windows 10/11, Linux Ubuntu, redes LAN, cableado estructurado
+",Soporte Técnico,Junior,4
+"
+INGENIERO DEVOPS
+
+EXPERIENCIA:
+
+Senior DevOps Engineer - FinTech Global
+2020 - 2025 (5 años)
+
+Logros:
+- Migré arquitectura monolítica a microservicios en Kubernetes
+- Reduje tiempos de deploy de 2 horas a 8 minutos con GitHub Actions
+- Implementé observabilidad completa con Prometheus, Grafana y Jaeger
+- Gestioné infraestructura AWS: EKS, RDS, ElastiCache, S3
+
+Stack: Docker, Kubernetes, Terraform, AWS, GitHub Actions, Helm, Prometheus, Grafana
+",DevOps,Senior,5
+"
+ANALISTA QA - CV
+
+Perfil: Analista de QA con 3 años de experiencia en testing manual y automatizado.
+
+Proyectos:
+- Automatización de pruebas E2E con Cypress para plataforma SaaS
+- API testing con Postman y Newman en CI/CD
+- Performance testing con JMeter para sistema de pagos
+
+Tecnologías: Cypress, Selenium, Python, pytest, Postman, Jira, Confluence, GitHub Actions
+",QA,Mid,3
+"
+CV - Desarrollador Frontend
+
+Nombre: Carlos M.
+
+Sobre mí: Desarrollador frontend apasionado por crear interfaces intuitivas y de alto rendimiento.
+
+Experiencia:
+2022-2025 | Frontend Developer | Agencia Digital CreaTech
+- Desarrollo de aplicaciones SPA con React y TypeScript
+- Implementación de Design System con Storybook y TailwindCSS
+- Optimización de rendimiento (Lighthouse 95+ en todos los proyectos)
+- Colaboración con diseñadores UX y backend developers
+
+Stack: React, TypeScript, Next.js, TailwindCSS, Redux Toolkit, Git
+",Frontend,Mid,3
+"
+Perfil Profesional - Administrador de Sistemas
+
+7 años gestionando infraestructura tecnológica en empresa manufacturera.
+
+Área de expertise:
+- Virtualización: VMware vSphere 7, vCenter, Hyper-V
+- Sistemas operativos: Windows Server 2019, RHEL 8, Ubuntu 22
+- Directorio Activo, DNS, DHCP, PKI corporativa
+- Backup y recuperación: Veeam Backup & Replication
+- Monitoreo: PRTG Network Monitor, Zabbix
+- Almacenamiento: NetApp ONTAP, Dell EMC Unity
+",SysAdmin,Senior,7
+"
+CURRICULUM VITAE
+
+Especialista en Ciberseguridad
+
+Certificaciones: CEH, CompTIA Security+, OSCP (en proceso)
+
+Experiencia actual:
+SOC Analyst - Banco Nacional (2021-2025)
+
+- Monitoreo de alertas en SIEM Splunk
+- Análisis forense de incidentes
+- Threat hunting proactivo
+- Gestión de vulnerabilidades con Tenable Nessus
+- Respuesta a incidentes de seguridad
+
+Herramientas: Splunk, Wireshark, Kali Linux, Metasploit, Burp Suite, Nessus
+",Seguridad,Mid,4
+"
+MACHINE LEARNING ENGINEER
+
+WORK EXPERIENCE
+
+Senior ML Engineer | DataTech Inc. | 2019 - 2025
+
+- Designed and deployed recommendation systems serving 10M+ daily users
+- Built NLP pipelines for document classification using scikit-learn and spaCy
+- Orchestrated ML workflows with Apache Airflow and MLflow
+- Collaborated with data engineers on feature stores using Feast
+- Mentored 3 junior data scientists
+
+Tech Stack: Python, scikit-learn, TensorFlow, Spark, Kafka, Airflow, MLflow, PostgreSQL
+",Data Science,Senior,6
+"
+FULL STACK DEVELOPER - RESUME
+
+Summary: Experienced full stack developer with 5 years building scalable web applications
+for startups and SMBs.
+
+Experience:
+Lead Developer | GrowthApp | 2021 - 2025
+- Architected React + Node.js SaaS platform from 0 to 50K users
+- Designed PostgreSQL schema, optimized queries, implemented caching with Redis
+- Set up Docker + GitHub Actions CI/CD pipeline
+- Integrated Stripe payments and Twilio SMS
+
+Skills: React, TypeScript, Node.js, Express, PostgreSQL, Redis, Docker, AWS, Git
+",Fullstack,Senior,5
+"
+NETWORK ENGINEER - CV
+
+Profile: Certified network professional (CCNP) with 7 years managing enterprise networks.
+
+Experience:
+Senior Network Engineer | TeleCorp | 2018 - 2025
+
+- Designed and implemented BGP routing for 3 data centers
+- Managed Cisco Catalyst switching infrastructure (200+ switches)
+- Deployed SD-WAN solution across 15 branch offices
+- Led Fortinet firewall migration project
+- Mentored junior network technicians
+
+Certifications: CCNP Enterprise, Fortinet NSE 4, CompTIA Network+
+",Networking,Senior,7
+"Backend developer. 3 años trabajando con Node.js, REST APIs y PostgreSQL. Experience with Docker y Linux servers. Ganas de crecer en arquitecturas cloud.",Backend,Mid,3
+"Frontend engineer con experiencia en React y TypeScript. Worked on responsive interfaces, state management with Redux, and API integration.",Frontend,Mid,3
+Desarrollador Python. Machine learning projects with scikit-learn y pandas. Experiencia en análisis de datos y creación de modelos predictivos.,Data Science,Mid,3
+"Network administrator. Administración de redes Cisco y Mikrotik. Experience configuring VLANs, routing protocols, y firewall rules.",Networking,Mid,4
+"DevOps engineer. Trabajo con Docker, Kubernetes y pipelines CI/CD. Experience in AWS infrastructure y Terraform automation.",DevOps,Mid,4
+"QA analyst. Testing manual y automatizado con Cypress. Experience writing test plans, bug reporting y API testing con Postman.",QA,Mid,3
+"Ciberseguridad. Penetration testing con Kali Linux. Experience in OWASP vulnerabilities, SIEM monitoring y incident response.",Seguridad,Mid,4
+"Administrador de sistemas. Linux y Windows Server management. Experiencia con Ansible automation, Nginx, y monitoring with Zabbix.",SysAdmin,Mid,4
+"Flutter developer. Apps cross-platform para iOS y Android. Experience with BLoC pattern, REST API integration y Firebase.",Mobile,Mid,3
+"Diseñadora UX/UI. Figma wireframes y prototypes. Experience conducting user interviews, usability testing y creación de design systems.",Diseño,Mid,3
+Soporte técnico nivel 2. IT helpdesk con Active Directory y Office 365. Experiencia en troubleshooting de red y administración de equipos.,Soporte Técnico,Mid,3
+"Infrastructure engineer. Virtualización con VMware vSphere. Experiencia en Linux server management, storage administration y Veeam backups.",Infraestructura,Mid,4
+"
+- Node.js REST API development
+- PostgreSQL database design and optimization
+- JWT authentication implementation
+- Docker containerization
+- Linux server deployment with Nginx
+- Redis caching integration
+",Backend,Mid,4
+"
+- React y TypeScript frontend development
+- Consumo de APIs REST
+- Manejo de estado con Redux Toolkit
+- Testing con Jest y React Testing Library
+- Diseño responsivo con TailwindCSS
+- Deploy en Vercel y Netlify
+",Frontend,Mid,3
+"
+- Docker y Docker Compose para ambientes de desarrollo y producción
+- Kubernetes cluster administration
+- Terraform infrastructure as code
+- GitHub Actions CI/CD pipelines
+- AWS EC2, S3, RDS management
+- Monitoreo con Prometheus y Grafana
+",DevOps,Mid,5
+"
+- Cisco router and switch configuration
+- VLAN design and implementation
+- OSPF and BGP routing protocols
+- Mikrotik RouterOS administration
+- Firewall management (pfSense, Fortinet)
+- Network monitoring with Zabbix and MRTG
+",Networking,Mid,5
+"
+- Python pandas para limpieza y análisis de datos
+- Modelos de clasificación con scikit-learn
+- Visualizaciones con matplotlib y seaborn
+- SQL para extracción de datos
+- Reportes en Jupyter Notebooks
+- Deploy de modelos con FastAPI
+",Data Science,Mid,3
+"
+- Automated E2E tests with Cypress
+- API testing with Postman and Newman
+- Performance testing with JMeter
+- Bug tracking in Jira
+- CI/CD pipeline integration for tests
+- Test documentation in Confluence
+",QA,Mid,3
+"
+- Resolución de tickets nivel 1 y 2
+- Administración Active Directory
+- Soporte Office 365 y Teams
+- Mantenimiento hardware PCs y laptops
+- Configuración de redes LAN
+- Inventario y control de equipos
+",Soporte Técnico,Junior,2
+"
+- VMware vSphere virtualization management
+- Windows Server 2019 administration
+- Active Directory, DNS, DHCP
+- Veeam backup and recovery
+- SAN storage administration
+- Linux server management
+",Infraestructura,Mid,5
+"CTO de startup fintech. 12 años en desarrollo de software. Lideré equipos de hasta 20 personas. Stack: React, Node.js, Python, PostgreSQL, AWS, Kubernetes.",Backend,Senior,12
+"VP of Engineering. 15 years in software development. Led full stack teams building SaaS products. React, Node.js, Python, AWS, Terraform.",Fullstack,Senior,15
+"Director de infraestructura. 13 años gestionando centros de datos y equipos de SysAdmins. VMware, Cisco, AWS, Azure, gestión de presupuesto TI.",Infraestructura,Senior,13
+"Head of Security. CISO function at mid-size enterprise. 11 years. Designed security architecture, managed compliance, built SOC from scratch.",Seguridad,Senior,11
+"Network operations manager. 10 años. Gestión de equipo de 15 ingenieros de red. Cisco, Juniper, SD-WAN, NOC 24/7.",Networking,Senior,10
+"Freelance backend developer. Builds REST APIs for SMBs. Node.js, Express, PostgreSQL, MongoDB. Remote work, project-based.",Backend,Mid,4
+"Desarrolladora frontend freelance. React, Tailwind, WordPress. Clientes de Argentina, México y Colombia. Proyectos de e-commerce y portfolios.",Frontend,Mid,4
+"Consultor redes freelance. Diseño e implementación de redes Cisco y Mikrotik para pymes. VLAN, VPN, wireless.",Networking,Mid,6
+"Data science consultant. Freelance projects in predictive analytics, NLP, reporting dashboards. Python, R, Power BI.",Data Science,Mid,5
+"Diseñadora UX freelance. Figma, Sketch, Adobe XD. Proyectos para startups y agencias. Portfolios, apps móviles y dashboards.",Diseño,Mid,4
+"Freelance DevOps consultant. Helps startups set up Docker, GitHub Actions, AWS infrastructure. Terraform, Nginx, monitoring.",DevOps,Mid,5
+"Java backend developer in banking sector. Spring Boot, Oracle DB, Kafka, SOAP/REST services, IBM MQ. 6 years in financial systems.",Backend,Mid,6
+"Analista de seguridad informática en banco. SIEM, PCI-DSS compliance, gestión de vulnerabilidades, análisis forense. 5 años.",Seguridad,Mid,5
+"DBA Oracle en empresa financiera. Tuning de queries críticas, particionamiento, RAC, Data Guard, respaldo RMAN.",Database,Senior,9
+"Enterprise network engineer. Cisco ACI, MPLS backbone, datacenter networking, BGP policy design. 8 years in banking.",Networking,Senior,8
+"Node.js developer. REST APIs, PostgreSQL, Docker. 3 years experience. Looking for backend opportunities.",Backend,Mid,3
+"React developer. TypeScript, TailwindCSS, Next.js. 4 años. Open to remote positions.",Frontend,Mid,4
+"CCNA certificado. Cisco, Mikrotik, VLANs, firewall, DNS. 3 años en soporte de redes empresariales.",Networking,Junior,3
+"Python developer with ML experience. scikit-learn, pandas, FastAPI. 4 years.",Data Science,Mid,4
+"DevOps. Docker, Kubernetes, AWS, Terraform, GitHub Actions. 5 years in cloud infrastructure.",DevOps,Mid,5
+"QA automation. Cypress, Playwright, Python. CI/CD integration. 3 years.",QA,Mid,3
+"Pentester. Kali Linux, Burp Suite, OWASP, Metasploit. CEH certificado. 4 años.",Seguridad,Mid,4
+"UI/UX designer. Figma, wireframes, user testing, design systems. 4 years in product design.",Diseño,Mid,4
+"React Native developer. iOS y Android. 3 años. Firebase, REST APIs, Redux.",Mobile,Mid,3
+"Linux sysadmin. Ubuntu, RHEL, Ansible, Nginx, monitoring, scripting Bash. 5 años.",SysAdmin,Mid,5
+"Técnico soporte TI. Windows, Active Directory, Office 365, helpdesk, networking básico. 2 años.",Soporte Técnico,Junior,2
+"Infrastructure engineer. VMware, Windows Server, Linux, Veeam, SAN. 5 años en datacenter.",Infraestructura,Mid,5
+"I am a backend developer with 5 years of experience designing and maintaining REST APIs using Node.js and Python. I have deep knowledge of PostgreSQL, Redis, and microservices architecture. I enjoy building scalable systems and collaborating with cross-functional teams.",Backend,Mid,5
+"Soy un desarrollador frontend apasionado por crear experiencias de usuario excepcionales. Llevo 4 años trabajando con React, TypeScript y TailwindCSS. Me especializo en optimización de performance y accesibilidad web.",Frontend,Mid,4
+"As a DevOps engineer with 6 years of experience, I specialize in cloud infrastructure on AWS and GCP. I have extensive experience with Kubernetes, Terraform, and CI/CD pipeline design. I am passionate about automation and reliability engineering.",DevOps,Senior,6
+"Soy técnico de redes con certificación CCNA y 4 años administrando infraestructura Cisco y Mikrotik. Me especializo en diseño de VLANs, routing y troubleshooting de conectividad en entornos empresariales.",Networking,Mid,4
+"I am a data scientist with a strong background in machine learning and NLP. I have 5 years of experience building predictive models with scikit-learn, XGBoost, and PyTorch. I am particularly interested in applied AI for business problems.",Data Science,Mid,5
+"Como analista QA con 3 años de experiencia, domino tanto el testing manual como la automatización con Cypress y Selenium. Tengo experiencia trabajando en equipos ágiles y soy defensor de las buenas prácticas de calidad de software.",QA,Mid,3
+"I am a cybersecurity professional with 5 years of experience in penetration testing, vulnerability assessment, and incident response. I hold CEH and Security+ certifications. I am passionate about protecting critical business systems.",Seguridad,Mid,5
+"Soy diseñadora UX/UI con 4 años creando productos digitales centrados en el usuario. Me especializo en investigación de usuarios, arquitectura de información y prototipado en Figma. Creo que el buen diseño debe ser tanto funcional como estético.",Diseño,Mid,4
+"As a mobile developer with 4 years of experience, I build cross-platform applications with Flutter and React Native. I have published 6 apps on both the App Store and Google Play. I care deeply about performance and user experience on mobile devices.",Mobile,Mid,4
+"Soy administrador de sistemas con 6 años gestionando infraestructura Linux y Windows Server. Me especializo en virtualización VMware, automatización con Ansible y monitoreo con Zabbix. Disfruto optimizar sistemas y garantizar su disponibilidad 24/7.",SysAdmin,Senior,6
+"Backend developer Node.js con 2 años. APIs REST, Express, MongoDB, Docker básico. Primer empleo formal en startup tecnológica.",Backend,Junior,2
+"Cloud architect AWS. 8 años. Multi-account strategies, Landing Zone, Service Control Policies, Well-Architected reviews.",Cloud Computing,Senior,8
+"Desarrollador Kotlin Android. 3 años. MVVM, Retrofit, Room, Hilt, Coroutines, Jetpack Compose. Apps de salud y productividad.",Mobile,Mid,3
+"Senior QA automation. 8 años. Framework design con Selenium + Java, Cucumber BDD, liderazgo de equipos de testing.",QA,Senior,8
+"Junior cloud engineer. GCP fundamentals, Compute Engine, Cloud Storage, BigQuery. Aprendiendo Terraform y Kubernetes.",Cloud Computing,Junior,1
+"Fullstack Ruby on Rails developer. 5 años. PostgreSQL, Sidekiq, RSpec, React frontend, Heroku y AWS. SaaS para pymes.",Fullstack,Mid,5
+"Penetration tester senior. OSCP. Red team operations, custom exploit development, social engineering, phishing simulations.",Seguridad,Senior,9
+"Data engineer. Apache Spark, Kafka, Airflow, dbt, Snowflake. Pipelines ETL a escala de terabytes diarios.",Data Science,Senior,7
+"Network security engineer. Palo Alto NGFW, Cisco ASA, IDS/IPS management, NAC, zero trust network access.",Seguridad,Mid,5
+"Diseñador gráfico y UX senior. 10 años. Branding corporativo, Design Systems, Figma, motion design, liderazgo creativo.",Diseño,Senior,10
+"Junior data scientist. Modelos de regresión y clasificación con scikit-learn. Visualización en matplotlib. SQL, pandas, numpy.",Data Science,Junior,1
+"iOS developer senior. Swift, UIKit, SwiftUI, Core Data, CloudKit. 9 años publicando apps en App Store.",Mobile,Senior,9
+"Administrador de base de datos PostgreSQL. Replicación streaming, particionamiento, tuning de queries, PgBouncer, Patroni HA.",Database,Mid,5
+"Junior sysadmin. Ubuntu Server 22.04, Nginx, Let's Encrypt, Fail2ban, Netplan, cron. Primer trabajo en hosting provider.",SysAdmin,Junior,1
+"Senior infrastructure engineer. Nutanix AHV, VMware vSAN, Cisco UCS, NetApp. Designed hyper-converged datacenter.",Infraestructura,Senior,10
+"Especialista soporte técnico nivel 3. Escalaciones complejas, administración Windows Server, troubleshooting avanzado, documentación técnica.",Soporte Técnico,Senior,7
+"Mid backend developer. Python Django, PostgreSQL, Celery, Redis, Docker. SaaS de gestión de proyectos. 3 años.",Backend,Mid,3
+"CCNP Enterprise certified network engineer. BGP, MPLS, SD-WAN, wireless Cisco, network automation with Python.",Networking,Senior,7
+"Vue.js developer. 2 años. Vuex, Vue Router, Vite, Axios, TailwindCSS. Primer trabajo en empresa de e-learning.",Frontend,Junior,2
+"Arquitecto DevOps senior. GitOps, ArgoCD, Crossplane, Kubernetes multi-cluster, Terraform Cloud, política as code con OPA.",DevOps,Senior,10

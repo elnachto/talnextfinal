@@ -1,0 +1,16 @@
+{
+  "profile": "Default",
+  "applies_to": [],
+  "weights": {
+    "technical": 0.50,
+    "communication": 0.20,
+    "cultural_fit": 0.10,
+    "workable": 0.10,
+    "english": 0.05,
+    "leadership": 0.05
+  },
+  "seniority_modifiers": {
+    "Senior": {"leadership": 0.10, "technical": 0.45},
+    "Lead": {"leadership": 0.20, "technical": 0.35}
+  }
+}

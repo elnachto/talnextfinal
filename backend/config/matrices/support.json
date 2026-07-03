@@ -1,0 +1,13 @@
+{
+  "profile": "Support",
+  "applies_to": ["IT Support", "Application Analyst"],
+  "weights": {
+    "technical": 0.40,
+    "communication": 0.25,
+    "cultural_fit": 0.15,
+    "workable": 0.15,
+    "english": 0.05,
+    "leadership": 0.00
+  },
+  "seniority_modifiers": {}
+}

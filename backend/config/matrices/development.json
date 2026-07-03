@@ -1,0 +1,18 @@
+{
+  "profile": "Development",
+  "applies_to": ["Backend Developer", "Frontend Developer", "Full Stack Developer", "Mobile Developer"],
+  "weights": {
+    "technical": 0.60,
+    "communication": 0.15,
+    "cultural_fit": 0.10,
+    "workable": 0.10,
+    "english": 0.05,
+    "leadership": 0.00
+  },
+  "seniority_modifiers": {
+    "Junior": {"technical": 0.55, "workable": 0.15},
+    "Senior": {"leadership": 0.10, "technical": 0.50},
+    "Principal / Architect": {"leadership": 0.20, "technical": 0.40},
+    "Lead": {"leadership": 0.25, "technical": 0.35}
+  }
+}

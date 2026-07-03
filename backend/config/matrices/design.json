@@ -1,0 +1,13 @@
+{
+  "profile": "Design",
+  "applies_to": ["UI/UX Designer"],
+  "weights": {
+    "technical": 0.45,
+    "communication": 0.20,
+    "cultural_fit": 0.15,
+    "workable": 0.15,
+    "english": 0.05,
+    "leadership": 0.00
+  },
+  "seniority_modifiers": {}
+}

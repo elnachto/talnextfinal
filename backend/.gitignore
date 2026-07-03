@@ -1,0 +1,15 @@
+# Python
+venv/
+.env
+**/__pycache__/
+*.pyc
+*.bak
+*.back
+
+# VSCode stuff
+.VSCodeCounter/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

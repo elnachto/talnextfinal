@@ -1,0 +1,15 @@
+{
+  "profile": "Data",
+  "applies_to": ["Data Engineer", "Data Scientist"],
+  "weights": {
+    "technical": 0.65,
+    "communication": 0.15,
+    "cultural_fit": 0.05,
+    "workable": 0.10,
+    "english": 0.05,
+    "leadership": 0.00
+  },
+  "seniority_modifiers": {
+    "Senior": {"leadership": 0.10, "technical": 0.55}
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "profile": "Infrastructure",
+  "applies_to": ["DevOps Engineer", "Security Engineer", "System Administrator"],
+  "weights": {
+    "technical": 0.55,
+    "communication": 0.15,
+    "cultural_fit": 0.10,
+    "workable": 0.15,
+    "english": 0.05,
+    "leadership": 0.00
+  },
+  "seniority_modifiers": {
+    "Senior": {"leadership": 0.15, "technical": 0.45}
+  }
+}
