@@ -13,3 +13,20 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/.env
+
+flutter_app/build/
+flutter_app/.dart_tool/
+flutter_app/pubspec.lock
+
+.vscode/
+.idea/
+*.iml
+
+.DS_Store
+Thumbs.db
+*.log
