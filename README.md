@@ -493,11 +493,3 @@ Esto es intencional si están usando la opción "Solo mías" en el filtro del hi
 ## Licencia
 
 Software propietario. Uso interno bajo licencia comercial.
-
-## Soporte
-
-Para soporte técnico contacta a: `[tu-email@ejemplo.com]`
-
----
-
-**TalNext v1.0**
