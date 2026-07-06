@@ -23,6 +23,12 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 @app.on_event("startup")
 async def startup_event():
+    try:
+        from core.database import Base, engine
+        Base.metadata.create_all(bind=engine)
+        print("✅ DB tables ready")
+    except Exception as e:
+        print(f"⚠️ DB init error: {e}")
     load_models()
     print("AI models loaded")
 
